@@ -12,5 +12,4 @@ What can I do ? :
 ### Reach me on
 - <a href="https://www.linkedin.com/in/raka-ryandra-guntara-b23698227">LinkedIn</a>
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
