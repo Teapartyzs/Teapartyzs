@@ -9,7 +9,7 @@ What can I do ? :
 - PHP Basic's
 - MySql
 
-Field that I'm intrested to learn in:
+Field that I'm interested to learn:
 - Android
 - Jetpack Compose
 - Ethical Hacking
