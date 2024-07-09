@@ -6,11 +6,16 @@ I'm an active student at Universitas Pendidikan Indonesia with study program Sof
 
 What can I do ? :
 - Android Native
+- Kotlin
+- MVVM
+- Rest API
+- Room
 - PHP Basic's
 - MySql
 
 Field that I'm interested to learn:
 - Android
+- IOS
 - Jetpack Compose
 - Ethical Hacking
 
