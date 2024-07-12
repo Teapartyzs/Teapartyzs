@@ -2,7 +2,7 @@
 
 ### My name is Raka Ryandra Guntara.
 
-I'm an active student at Universitas Pendidikan Indonesia with study program Software Engineering, my field is Android Programming but I have tried some Web stuff..
+I'm recent graduate at Universitas Pendidikan Indonesia with study program Software Engineering, my field is Android Programming but I have tried some Web stuff..
 
 What can I do ? :
 - Android Native
