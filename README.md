@@ -12,6 +12,8 @@ What can I do ? :
 - Jetpack Compose
 - Room
 - Clean Architecture
+- Hilt Dagger
+- Firebase
 - MySql
 
 ### Reach me on
