@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###👋 I'm Raka, a Mobile Developer who loves Kotlin and Flutter 🚀.
+### I'm Raka, a Mobile Developer who loves Kotlin and Flutter 🚀 🧑‍💻.
 
 I'm all about creating cool, functional mobile apps — whether it’s native Android with Kotlin or building cross-platform magic with Flutter. I love diving into clean code, smooth UX, and staying up-to-date with the latest trends in mobile development.
 
